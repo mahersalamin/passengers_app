@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893563035742",
+    "project_id": "passengers-50e14",
+    "storage_bucket": "passengers-50e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893563035742:android:74d83c45c9bb0839fb54cf",
+        "android_client_info": {
+          "package_name": "codenest.passengers.passengers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkYk9bowxqnSVqJtfpfL1m33eZ_gEQ8Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
